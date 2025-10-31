@@ -1,4 +1,5 @@
-# 🛡️ Setup & Activate Trend Micro at trendmicro.com.au/activate — Full Step-by-Step Guide (2025)
+Setup & Activate Trend Micro at trendmicro.com.au/activate — Full Step-by-Step Guide (2025)
+===========================================================================================
 
 .. meta::
    :title: Setup and Activate Trend Micro — www.trendmicro.com.au/activate (Official 2025 Guide)
@@ -43,6 +44,7 @@ It’s a 20-digit alphanumeric code like this:
 ```
 XXXX-XXXX-XXXX-XXXX-XXXX
 ```
+
 
 You can find it:
 - Inside your Trend Micro retail box (on the card or sticker), or  
