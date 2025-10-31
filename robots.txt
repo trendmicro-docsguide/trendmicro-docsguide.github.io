@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://trendmicro-docsguide.github.io/sitemap.xml
+
+# Optional: Crawl-delay for bots (useful for GitHub Pages to avoid overload)
+Crawl-delay: 10
+
+# Disallow admin or private sections if any (customize later)
+Disallow: /private/
+Disallow: /temp/
