@@ -6,7 +6,7 @@
 
   <!-- Primary Trend Micro Activation Page -->
   <url>
-    <loc>#/</loc>
+    <loc>https://trendmicro-docsguide.readthedocs.io/en/latest/</loc>
     <lastmod>2025-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -14,7 +14,7 @@
 
   <!-- Trend Micro Activation Guide 2025 -->
   <url>
-    <loc>#/trendmicro-activation-guide-2025</loc>
+    <loc>https://trendmicro-docsguide.readthedocs.io/en/latest//trendmicro-activation-guide-2025</loc>
     <lastmod>2025-10-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -22,7 +22,7 @@
 
   <!-- FAQ Section -->
   <url>
-    <loc>#/trendmicro-activation-guide-2025#faq</loc>
+    <loc>https://trendmicro-docsguide.readthedocs.io/en/latest//trendmicro-activation-guide-2025#faq</loc>
     <lastmod>2025-10-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -30,7 +30,7 @@
 
   <!-- Help or Support Reference -->
   <url>
-    <loc>https://helpcenter.trendmicro.com/</loc>
+    <loc>https://trendmicro-docsguide.readthedocs.io/en/latest/</loc>
     <lastmod>2025-10-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
